@@ -3,7 +3,7 @@
 
 # Changes Made
 <ol>
-<li>Initial project scaffolded using Angular-CLI 1.2.0using:
+<li>Initial project scaffolded using Angular-CLI 1.2.0 using:
 <ul>
 <li>--minimal
 <li>--routing
